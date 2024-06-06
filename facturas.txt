@@ -1,0 +1,89 @@
+Número: 1
+Fecha: 2024-06-05
+Cliente: Juan Pérez
+Descripción: Llanta Todo Terreno 205/55R16 x 2, Llanta Deportiva 225/40R18 x 4
+Subtotal: $960.000 COP
+IVA colombiano: $172.800 COP
+Total: $1.132.800 COP
+Condiciones de pago: Contado
+Método de pago: Efectivo
+
+Número: 2
+Fecha: 2024-06-05
+Cliente: Maria Gómez
+Descripción: Llanta Camioneta 235/75R15 x 1
+Subtotal: $150.000 COP
+IVA colombiano: $27.000 COP
+Total: $177.000 COP
+Condiciones de pago: 30 días
+Método de pago: Tarjeta de crédito
+
+Número: 3
+Fecha: 2024-06-05
+Cliente: Pedro López
+Descripción: Llanta Motocicleta 120/70R17 x 2
+Subtotal: $160.000 COP
+IVA colombiano: $28.800 COP
+Total: $188.800 COP
+Condiciones de pago: Contado
+Método de pago: Efectivo
+
+Número: 4
+Fecha: 2024-06-05
+Cliente: Ana Martínez
+Descripción: Llanta Camión 295/75R22.5 x 6
+Subtotal: $2.100.000 COP
+IVA colombiano: $378.000 COP
+Total: $2.478.000 COP
+Condiciones de pago: 60 días
+Método de pago: Transferencia bancaria
+
+Número: 5
+Fecha: 2024-06-05
+Cliente: Carlos Rodríguez
+Descripción: Llanta Tractor 16.9R30 x 4
+Subtotal: $1.120.000 COP
+IVA colombiano: $201.600 COP
+Total: $1.321.600 COP
+Condiciones de pago: Contado
+Método de pago: Efectivo
+
+Número: 6
+Fecha: 2024-06-05
+Cliente: Isabel Ramírez
+Descripción: Llanta Bicicleta 26x1.95 x 3
+Subtotal: $120.000 COP
+IVA colombiano: $21.600 COP
+Total: $141.600 COP
+Condiciones de pago: 30 días
+Método de pago: Tarjeta de débito
+
+Número: 7
+Fecha: 2024-06-05
+Cliente: David García
+Descripción: Llanta Golf 205/55R16 x 2
+Subtotal: $240.000 COP
+IVA colombiano: $43.200 COP
+Total: $283.200 COP
+Condiciones de pago: Contado
+Método de pago: Efectivo
+
+Número: 8
+Fecha: 2024-06-05
+Cliente: Sofia González
+Descripción: Llanta SUV 235/65R17 x 5
+Subtotal: $800.000 COP
+IVA colombiano: $144.000 COP
+Total: $944.000 COP
+Condiciones de pago: 60 días
+Método de pago: Transferencia bancaria
+
+Número: 9
+Fecha: 2024-06-05
+Cliente: Luis Moreno
+Descripción: Llanta Furgoneta 225/75R15 x 3
+Subtotal: $420.000 COP
+IVA colombiano: $75.600 COP
+Total: $495.600 COP
+Condiciones de pago: 30 días
+Método de pago: Tarjeta de crédito
