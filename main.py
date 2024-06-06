@@ -1,4 +1,5 @@
-from Modelo.organizador import GestorCartera, Exportador
+from Modelo.Exportador import Exportador
+from Modelo.GestorCartera import GestorCartera
 import os
 lista = []
 booleano = False
